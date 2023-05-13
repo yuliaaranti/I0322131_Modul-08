@@ -1,7 +1,3 @@
-Nama: sf
-Umur: vx
-Alamat: xvxv
-
-Nama: cvcv
-Umur: vcv
-Alamat: cvcv
+Nama: #N/A
+Umur: #N/A
+Alamat: #N/A
