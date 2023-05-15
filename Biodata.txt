@@ -1,3 +1,7 @@
-Nama: #N/A
-Umur: #N/A
-Alamat: #N/A
+Nama: Regina
+Umur: 18
+Alamat: Tulungagung
+
+Nama: Lia
+Umur: 17
+Alamat: Kleco
